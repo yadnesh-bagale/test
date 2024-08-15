@@ -73,3 +73,12 @@ console.log(obj1.hasOwnProperty("name"));
 console.log(obj1.hasOwnProperty("key1"));
 
 
+// {
+//     "name1": "yadnes",
+//     "price": "999",
+
+// }
+[
+    {},
+    {}
+]
